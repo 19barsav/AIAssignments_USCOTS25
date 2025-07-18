@@ -1,6 +1,6 @@
 # AIAssignments_USCOTS25
 
-This respository holds the poster, sample assignments, and other materials relating to the USCOTS poster presentation "IF You Can't Beat It: Require It!" by Savvy Barnes (barne329@msu.edu).
+This respository holds the poster, sample assignments, and other materials relating to the USCOTS poster presentation "If You Can't Beat It: Require It!" by Savvy Barnes (barne329@msu.edu).
 
 The assignments within this repository were mandatory AI/LLM questions on larger homework assignments given to a graduate statistics/data science course in Spring 2025. Not all assignments or questions are present here, and some have been modified to protect future students and assignments. 
 
